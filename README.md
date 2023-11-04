@@ -1,7 +1,7 @@
 # Machine-Learning
 # Tratamento de dados
 
-Para esta atividade fazer um tratamento de dados a partir do [dataset](dataset_casas.csv)
+Para esta atividade, vamos fazer um tratamento de dados a partir do [dataset](dataset_casas.csv)
 
 
 ```python
